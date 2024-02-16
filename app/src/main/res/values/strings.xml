@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CarbonFootprintCalculatorApp</string>
+    <string name="beef_label">Beef(g):</string>
+    <string name="pork_label">Pork(g):</string>
+    <string name="chicken_label">Chicken(g):</string>
+    <string name="butter_label">Butter(g):</string>
+    <string name="fish_label">Fish(g):</string>
+    <string name="other_dairy_products_label">Other dairy products(g):</string>
+    <string name="car_label">Car(km):</string>
+    <string name="public_transport_label">Public transport(km):</string>
+    <string name="plane_label">Plane(km):</string>
+    <string name="in_number_of_uses_washing_machine_label">In number of uses:\n(e.g. washing machine)</string>
+    <string name="submit_data">Submit data</string>
+    <string name="user_average">User Average</string>
+    <string name="global_average">Global Average:</string>
+    <string name="your_average">Your Average:</string>
+    <string name="electrical_appliances">Electrical Appliances</string>
+    <string name="title_1">Insert Your CO² consumption of Today</string>
+    <string name="food_label">Food</string>
+    <string name="transportation_label">Transportation</string>
+</resources>
