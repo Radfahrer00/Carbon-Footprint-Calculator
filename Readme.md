@@ -1,5 +1,5 @@
 # Daily Carbon Footprint Calculation Application
-The project's primary goal is to to help individuals measure their daily carbon footprint based on their means of transportation, food consumption and household electrical appliances usage. It aims to promote environmentally friendly lifestyle choices and compare everyone's own footprint to the global average of users.
+The project's primary goal is to help individuals measure their daily carbon footprint based on their means of transportation, food consumption, and household electrical appliances usage. It aims to promote environmentally friendly lifestyle choices and compare everyone's footprint to the global average of users.
 
 ## Introduction
 The solution provided is a distributed system with four primary components: a desktop GUI, an Android application, an MQTT broker and the Node-RED flow-editing platform.
